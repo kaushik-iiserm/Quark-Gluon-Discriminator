@@ -1,8 +1,5 @@
 # Quark-Gluon-Discriminator
 
-# MVA Classifier Tutorial-1
-
-
 
 ## Introduction
 In this lecture, we will cover the basics of Multivariate Analysis (MVA) classifiers, which are widely used in machine learning applications for classification tasks. MVA classifiers are designed to separate data points into distinct categories based on multiple input features.
